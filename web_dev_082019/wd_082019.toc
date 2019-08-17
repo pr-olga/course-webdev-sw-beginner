@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Web-Architektur}{7}{0}{1}
+\beamer@sectionintoc {2}{HTML}{10}{0}{2}
+\beamer@sectionintoc {3}{CSS}{23}{0}{3}
+\beamer@sectionintoc {4}{Web Page}{29}{0}{4}
+\beamer@sectionintoc {5}{Zusammenfassung}{31}{0}{5}
+\beamer@sectionintoc {6}{Aufgabe}{32}{0}{6}
+\beamer@sectionintoc {7}{N\IeC {\"u}tzliche Links}{33}{0}{7}
